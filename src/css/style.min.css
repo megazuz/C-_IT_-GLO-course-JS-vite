@@ -218,7 +218,7 @@ body button:hover {
 main {
   padding-top: 1rem;
   padding-bottom: 2.6rem;
-  background: url('../images/main-bg.jpg') center/cover no-repeat fixed;
+  background: url('../../images/main-bg.jpg') center/cover no-repeat fixed;
   color: #fff;
 }
 
