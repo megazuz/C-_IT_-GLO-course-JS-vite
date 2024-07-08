@@ -110,6 +110,9 @@
     "new-parens": [
       "error"
     ],
+    "curly": [
+      "error"
+    ],
     "no-trailing-spaces": [
       "error"
     ],
