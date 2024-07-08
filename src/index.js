@@ -1,8 +1,4 @@
-import burger from './modules/burger';
-burger();
-
-import slider1 from './modules/slider';
-slider1();
-
-import slider2 from './modules/newSlider';
-slider2();
+import { timer } from '/src/modules/timer.js';
+timer('22 july 2024');
+// import { twoFunc } from '/src/modules/two.js';
+// twoFunc();
