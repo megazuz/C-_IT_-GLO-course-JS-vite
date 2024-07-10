@@ -1,5 +1,5 @@
 'use strict';
-export const timer = (deadline) => {
+export const timerFunc = (deadline) => {
   const timerHours = document.getElementById('timer-hours');
   const timerMinutes = document.getElementById('timer-minutes');
   const timerSeconds = document.getElementById('timer-seconds');

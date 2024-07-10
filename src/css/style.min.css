@@ -712,16 +712,16 @@ main a {
   height: 10rem;
 }
 
-.connect-adress {
+.connect-address {
   text-align: left;
 }
 
-.connect-adress img,
-.connect-adress p {
+.connect-address img,
+.connect-address p {
   display: inline-block;
 }
 
-.connect-adress img {
+.connect-address img {
   border: 1px solid #fff;
   border-radius: 3px;
   padding: 5px;
